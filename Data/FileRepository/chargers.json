@@ -1,0 +1,62 @@
+[
+    {
+        "Id": 1,
+        "Connector": 0,
+        "Status": 0
+    },
+    {
+        "Id": 2,
+        "Connector": 0,
+        "Status": 0
+    },
+    {
+        "Id": 3,
+        "Connector": 1,
+        "Status": 0
+    },
+    {
+        "Id": 4,
+        "Connector": 0,
+        "Status": 0
+    },
+    {
+        "Id": 5,
+        "Connector": 0,
+        "Status": 1
+    },
+    {
+        "Id": 6,
+        "Connector": 1,
+        "Status": 0
+    },
+    {
+        "Id": 7,
+        "Connector": 0,
+        "Status": 0
+    },
+    {
+        "Id": 8,
+        "Connector": 0,
+        "Status": 1
+    },
+    {
+        "Id": 9,
+        "Connector": 1,
+        "Status": 3
+    },
+    {
+        "Id": 10,
+        "Connector": 0,
+        "Status": 0
+    },
+    {
+        "Id": 11,
+        "Connector": 0,
+        "Status": 1
+    },
+    {
+        "Id": 12,
+        "Connector": 1,
+        "Status": 2
+    }
+]
