@@ -30,7 +30,7 @@ namespace DomainServices
                 chargingSession.Status != ChargingSessionStatus.Processing) {
                 throw new ChargingSessionNotFinalizedException($"Session id={id} is not able to finilize");
             }
-            chargingSession.Status = Domain.Enum.ChargingSessionStatus.Finished;
+            chargingSession.Status = ChargingSessionStatus.Finished;
             chargingSession.FinishedTime = DateTime.UtcNow;
             await _chargingSessionRepository.Update(chargingSession);
             return chargingSession;
